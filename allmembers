@@ -1,0 +1,45 @@
+{
+  "members": [
+    {
+      "login": "fames",
+      "avatar_url": "https://cdn.discordapp.com/avatars/695389971808387122/cecc20f8679db12239f57581bd931a7a.webp",
+      "name": "[CEO] Fames",
+      "bio": "Something about u",
+      "location": null,
+      "id": "695389971808387122"
+    },
+    {
+      "login": "dylan16",
+      "avatar_url": "https://cdn.discordapp.com/avatars/691994304885030972/51cd9f6f2612edee79e60dd5df494428.webp",
+      "name": "[COO] Dylan",
+      "bio": "Something about u",
+      "location": null,
+      "id": "691994304885030972"
+    },
+    {
+      "login": "sam",
+      "avatar_url": "https://cdn.discordapp.com/avatars/436656352966737930/a_8783aed44c15c7a94b9682c55475dc0c.gif",
+      "name": "[CMO] Sam",
+      "bio": "Something about u",
+      "location": null,
+      "id": "436656352966737930"
+    },
+    {
+      "login": "shard",
+      "avatar_url": "https://cdn.discordapp.com/avatars/471096143447851039/06adabcf0d6cf7123e25873f18fcfac6.webp",
+      "url": "http://discord.com/users/471096143447851039",
+      "name": "[CHRO] Shard",
+      "bio": "I am Shard and I am the CHRO! I manage the staff team by assisting with staff inquires and doing checkups to make sure the staff have the support to complete their tasks!",
+      "location": null,
+      "id": "471096143447851039"
+    },
+    {
+      "login": "np",
+      "avatar_url": "https://cdn.discordapp.com/avatars/887296580955283537/a_092a289ac8971652cc582a0da32a1f7c.gif?size=80",
+      "name": "[CBO] NP",
+      "bio": "Something about u",
+      "location": null,
+      "id": "887296580955283537"
+    }
+  ]
+}
